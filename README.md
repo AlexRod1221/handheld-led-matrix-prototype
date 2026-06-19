@@ -48,3 +48,10 @@ I originally started this project because I wanted to learn more about embedded 
 
 ## Documentation
 https://docs.google.com/document/d/1Mj_qr_Yws2TstoquD6Upexz5me1fRSkTJ5Tjjy_lT1I/edit?usp=sharing 
+
+<img width="2304" height="3072" alt="image" src="https://github.com/user-attachments/assets/3731e4c7-69a0-4e9a-87de-6d2ac40fbd49" />
+<img width="2304" height="3072" alt="image" src="https://github.com/user-attachments/assets/d268a1f6-8ba1-4286-a253-da5ac3b131ed" />
+<img width="2304" height="3072" alt="image" src="https://github.com/user-attachments/assets/dc6e70f2-03d7-4dcc-9678-c04a5345be7c" />
+
+
+
