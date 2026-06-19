@@ -31,7 +31,7 @@ I originally started this project because I wanted to learn more about embedded 
 * Custom game engine and display routines
 * Input handling and game logic
 * Used Altium Designer for PCB design
-* Used TinkerCAD for outer shell/circuit enclosure
+* Used TinkerCAD for outer handheld enclosure
 
 ---
 
