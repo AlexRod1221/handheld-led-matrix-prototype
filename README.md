@@ -6,6 +6,8 @@ This project combines embedded systems, digital electronics, PCB design, and mec
 
 I originally started this project because I wanted to learn more about embedded systems beyond the classroom and create something visually impressive that could showcase both hardware and software engineering skills. 
 
+I also learned alot about soldering doing this project since one of my original goals was to create this project completely from scratch. I had a lot of trial and error using perfboards and although my goals have changed, I now understand the fundamentals of soldering. In fact, I even soldered 2.54mm header pins to Teensy 4.1 since it my ordered package did not arrive pre-soldered. 
+
 ---
 
 ## Hardware
